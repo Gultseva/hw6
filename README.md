@@ -34,3 +34,18 @@ adore ... audience
 
 ![Objects](https://github.com/Gultseva/hw6/blob/master/pics/Objects.jpg)
 
+## 3.Trends
+
+Для начала зайдем в тренды на Sketch Engine и выберем самый последний (новый) из имеющихся промижуток времени. Нам необходимо точно знать этот промежуток, чтобы потом ввести его в Google Ngram.
+
+![Trend](https://github.com/Gultseva/hw6/blob/master/pics/Trend.jpg)
+
+Я выбрала временной промежуток 1985 по 1993 год. На первом же месте в трендах стоит слово **skewing** Теперь создадим запрос в Google Ngram с 1986 по 1983 год, учитывая что тренды в Sketch Engine мы искали в *British National Corpus*, а значит и в Google Ngram нам нужно делать поиск по британскому корпусу.
+
+![skewing](https://github.com/Gultseva/hw6/blob/master/pics/skewing.jpg)
+
+Как мы можем заметить данные полностью соотносятся, графики идентичны. Забудь мы учесть промежуток времени и/или корпус, результаты могли быть не полностью достоверными.
+
+
+
+
