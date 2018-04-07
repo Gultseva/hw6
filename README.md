@@ -1,4 +1,4 @@
-е# Google Ngram Viewer
+# Google Ngram Viewer
 ## 1.Due to the...
 ...fact, presence, lack, high, influence, absence, formation, use, action, same
 
