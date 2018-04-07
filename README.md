@@ -16,10 +16,19 @@
 
 
 # Sketch Engine
-## Word Sketch modifiers
+## 1.Word Sketch modifiers
+TOP 3
 1. difficult question
 2. important question
 3. the fundamental question
 
 ![question](https://github.com/Gultseva/hw6/blob/master/pics/question.jpg)
+
+## 2.Objects
+
+love ... god
+love/adore ... wife
+adore ... audience
+
+![Objects](https://github.com/Gultseva/hw6/blob/master/pics/Objects.jpg)
 
