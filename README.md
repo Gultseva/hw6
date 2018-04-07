@@ -13,3 +13,13 @@
 ![USvsGB](https://github.com/Gultseva/hw6/blob/master/pics/UsGb.jpg)
 
 Информационное агенство BBC утверждает что амереканизм *rookie(новичек)* начинает вытеснять искомо английское слово *newcomer*. Судя по построеному мной графику Google Ngram мы можем сделать вывод, что это действительно так. За последние 100 лет слово rookie начало набирать большую популярность и к 2000 году уже почти догнало по употребляемости слово newcomer. Но такая ситуация наблюдается только в Америке. В Великобритании слово newcomer по-прежнему доминирует.
+
+
+# Sketch Engine
+## Word Sketch modifiers
+1. difficult question
+2. important question
+3. the fundamental question
+
+![question](https://github.com/Gultseva/hw6/blob/master/pics/question.jpg)
+
