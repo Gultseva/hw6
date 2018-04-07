@@ -27,7 +27,9 @@ TOP 3
 ## 2.Objects
 
 love ... god
+
 love/adore ... wife
+
 adore ... audience
 
 ![Objects](https://github.com/Gultseva/hw6/blob/master/pics/Objects.jpg)
